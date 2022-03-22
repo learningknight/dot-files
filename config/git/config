@@ -1,9 +1,9 @@
 [user]
-	name = Lars Kappert
-	email = lars@webpro.nl
+	name = Jak A
+	email = jaka@remitly.com
 
 [github]
-	user = webpro
+	user = jak-corp
 
 [core]
 	excludesfile = ~/.config/git/ignore
