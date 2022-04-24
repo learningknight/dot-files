@@ -1,9 +1,9 @@
 [user]
 	name = Jak A
-	email = jaka@remitly.com
+	email = updating.aa@gmail.com
 
 [github]
-	user = jak-corp
+	user = learningknight
 
 [core]
 	excludesfile = ~/.config/git/ignore
